@@ -2,8 +2,8 @@ title: Floreciendo Ciudad
 author: LagosPiña
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  **De parques, banquetas, flores y vecinas. **
- *Ideas sobre la ciudad que habitamos de la voz de una vecina* 
+  De parques, banquetas, flores y vecinas. 
+ Ideas sobre la ciudad que habitamos de la voz de una vecina
 
 # social links
 twitter_username: FloreceCiudad # DO NOT include the @ character, or else the build will fail!
