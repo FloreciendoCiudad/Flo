@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Bienvenida a mi blog
 
-I'm glad you are here. I plan to talk about ...
+Qué gusto verlas acá.
+La idea de este lugar es. compartor mis histoiras e ideas sobre la ciudad y la vida en la ciudad. com
